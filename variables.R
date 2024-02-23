@@ -1,0 +1,27 @@
+A <-10
+B <-5
+
+C <-A+B
+C
+
+
+#variable1
+var1 <-2.5
+#variable2
+var2 <-4   #carriage return 
+
+result<-var1/var2
+result
+
+result<-var1-var2
+result
+
+answer <-sqrt(var2)
+answer
+
+greeting <- "Hello"  #character
+name<-"Bob"
+message<- paste(greeting,name)
+message
+
+
